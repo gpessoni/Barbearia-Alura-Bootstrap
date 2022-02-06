@@ -1,10 +1,10 @@
 <h1>Barbearia Alura</h1>
 <br>
-<p> Projetos desenvolvidos ao decorrer do curso de HTML e CSS da Alura. Durante quatro módulos, foi desenvolvido quatro projetos do mesmo site, evoluindo exponencialmente a qualidade e técnicas no código.
+<p> Projects developed during Alura's HTML and CSS course. During four modules, four projects were developed from the same site, exponentially evolving the quality and techniques in the code.
  <br>
-Por fim, após aprofundar no desenvolvimento com as duas tecnologias citadas acima, foi desenvolvido um projeto final, utilizando o que há de mais novo no quesito WEB. O Site final conta com três abas principais (Index(home), Produtos e Contato).  Além disso o site conta com o framework Bootstrap para a criação de animações e melhorias visuais na página.
+Finally, after deepening the development with the two technologies mentioned above, a final project was developed, using the latest in the WEB aspect. The final Site has three main tabs (Index(home), Products and Contact). In addition, the site has the Bootstrap framework for creating animations and visual improvements on the page.
 </p>
 <br>
   <img src="https://media.cuponeria.com.br/2020/07/63f02582-cupom-de-desconto-alura.png" alt="Alura">
   
-  <p> O projeto final do site já se encontra hospedado e pode ser acessado  <a href="https://barbearia-alura-novo.000webhostapp.com/">Clicando Aqui</a>
+  <p> The final project of the site is already hosted and can be accessed <a href="https://barbearia-alura-novo.000webhostapp.com/">here</a>
